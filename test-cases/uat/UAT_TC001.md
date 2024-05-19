@@ -7,7 +7,7 @@ assignees: ''
 ---
 
 ## Test Case Information
-- **Test Case ID:** [UAT_TC001](../test-cases/uat/UAT_TC001.md)
+- **Test Case ID:** UAT_TC001
 - **Test Case Description:** Verify that items can be added to the cart successfully.
 - **Pre-Conditions:** User must be logged in.
 - **Test Steps:** 

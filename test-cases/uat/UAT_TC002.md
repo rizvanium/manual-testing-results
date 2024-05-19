@@ -7,7 +7,7 @@ assignees: ''
 ---
 
 ## Test Case Information
-- **Test Case ID:** [UAT_TC002](../test-cases/uat/UAT_TC002.md)
+- **Test Case ID:** UAT_TC002
 - **Test Case Description:** Verify that items can be removed from the cart successfully.
 - **Pre-Conditions:** User must be logged in with items already added to the cart.
 - **Test Steps:** 

@@ -7,7 +7,7 @@ assignees: ''
 ---
 
 ## Test Case Information
-- **Test Case ID:** [UAT_TC003](../test-cases/uat/UAT_TC003.md)
+- **Test Case ID:** UAT_TC003
 - **Test Case Description:** Verify that the checkout process works correctly.
 - **Pre-Conditions:** User must be logged in with items added to the cart.
 - **Test Steps:** 

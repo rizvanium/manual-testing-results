@@ -7,7 +7,7 @@ assignees: ''
 ---
 
 ## Test Case Information
-- **Test Case ID:** [UAT_TC004](../test-cases/uat/UAT_TC004.md)
+- **Test Case ID:** UAT_TC004
 - **Test Case Description:** Verify that the order history can be viewed correctly.
 - **Pre-Conditions:** User must have previous orders in their account.
 - **Test Steps:** 
