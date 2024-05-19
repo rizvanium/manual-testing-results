@@ -22,8 +22,8 @@ Provide an overview of the project and the purpose of the exploratory testing re
 
 | Session ID | Charter | Duration | Test Environment | Areas Explored | Executed By | Date |
 |------------|---------|----------|------------------|----------------|-------------|------|
-| [Session001](sessions/Session001.md) | Explore login functionality | 2 hours | Chrome on Windows 10 | Login, Password Reset | Alice Johnson | 2024-05-18 |
-| [Session002](sessions/Session002.md) | Explore shopping cart features | 1.5 hours | Firefox on macOS | Adding/Removing items, Checkout | Bob Smith | 2024-05-19 |
+| [Session001](../test-cases/exp/Session001.md) | Explore login functionality | 2 hours | Chrome on Windows 10 | Login, Password Reset | Alice Johnson | 2024-05-18 |
+| [Session002](../test-cases/exp/Session002.md) | Explore shopping cart features | 1.5 hours | Firefox on macOS | Adding/Removing items, Checkout | Bob Smith | 2024-05-19 |
 
 ## Findings
 
@@ -35,8 +35,8 @@ Document any issues or defects identified during the session. If there are multi
 
 | Defect ID | Session ID | Description | Severity | Status | Assigned To | Resolution | Related Issue | Comments |
 |-----------|------------|-------------|----------|--------|-------------|------------|---------------|----------|
-| [DEF001](defects/DEF001.md) | [Session001](sessions/Session001.md) | Password reset link fails intermittently | Trivial | New | Alice Johnson | Pending | [Issue #1](https://github.com/your-repo/issues/1) | Observed intermittently |
-| [DEF002](defects/DEF002.md) | [Session002](sessions/Session002.md) | Items not removed from cart correctly | Major | New | Bob Smith | Pending | [Issue #2](https://github.com/your-repo/issues/2) | Consistent issue |
+| [DEF001](../defects/DEF001.md) | [Session001](../test-cases/exp/Session001.md) | Password reset link fails intermittently | Trivial | New | Alice Johnson | Pending | [Issue #1](https://github.com/your-repo/issues/1) | Observed intermittently |
+| [DEF002](../defects/DEF002.md) | [Session002](../test-cases/exp/Session002.md) | Items not removed from cart correctly | Major | New | Bob Smith | Pending | [Issue #2](https://github.com/your-repo/issues/2) | Consistent issue |
 
 ## Test Summary
 ### Execution Summary

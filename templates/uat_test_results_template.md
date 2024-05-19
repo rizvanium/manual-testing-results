@@ -21,19 +21,19 @@ Provide an overview of the project and the purpose of the UAT results document.
 
 | Test Case ID | Test Case Description | Executed By | Execution Date | Status (Pass/Fail) | Actual Results | Comments |
 |--------------|-----------------------|-------------|----------------|-------------------|----------------|----------|
-| [TC001](test-cases/TC001.md) | Description of Test Case 001 |             |                |                   |                |          |
-| [TC002](test-cases/TC002.md) | Description of Test Case 002 |             |                |                   |                |          |
-| [TC003](test-cases/TC003.md) | Description of Test Case 003 |             |                |                   |                |          |
-| [TC004](test-cases/TC004.md) | Description of Test Case 004 |             |                |                   |                |          |
+| [UAT_TC001](../test-cases/uat/UAT_TC001.md) | Description of Test Case 001 |             |                |                   |                |          |
+| [UAT_TC002](../test-cases/uat/UAT_TC002.md) | Description of Test Case 002 |             |                |                   |                |          |
+| [UAT_TC003](../test-cases/uat/UAT_TC003.md) | Description of Test Case 003 |             |                |                   |                |          |
+| [UAT_TC004](../test-cases/uat/UAT_TC004.md) | Description of Test Case 004 |             |                |                   |                |          |
 
 ## Defects Identified
 
 | Defect ID | Test Case ID | Description | Severity | Status | Assigned To | Resolution | Related Issue | Comments |
 |-----------|--------------|-------------|----------|--------|-------------|------------|---------------|----------|
-| [DEF003](defects/DEF003.md) | [TC001](test-cases/TC001.md) | Description of Defect 003 |          |        |             |            | [Issue #3](https://github.com/your-repo/issues/3) |          |
-| [DEF004](defects/DEF004.md) | [TC002](test-cases/TC002.md) | Description of Defect 004 |          |        |             |            | [Issue #4](https://github.com/your-repo/issues/4) |          |
-| [DEF005](defects/DEF005.md) | [TC003](test-cases/TC003.md) | Description of Defect 005 |          |        |             |            | [Issue #5](https://github.com/your-repo/issues/5) |          |
-| [DEF006](defects/DEF006.md) | [TC004](test-cases/TC004.md) | Description of Defect 006 |          |        |             |            | [Issue #6](https://github.com/your-repo/issues/6) |          |
+| [DEF003](../defects/DEF003.md) | [UAT_TC001](../test-cases/uat/UAT_TC001.md) | Description of Defect 003 |          |        |             |            | [Issue #3](https://github.com/your-repo/issues/3) |          |
+| [DEF004](../defects/DEF004.md) | [UAT_TC002](../test-cases/uat/UAT_TC002.md) | Description of Defect 004 |          |        |             |            | [Issue #4](https://github.com/your-repo/issues/4) |          |
+| [DEF005](../defects/DEF005.md) | [UAT_TC003](../test-cases/uat/UAT_TC003.md) | Description of Defect 005 |          |        |             |            | [Issue #5](https://github.com/your-repo/issues/5) |          |
+| [DEF006](../defects/DEF006.md) | [UAT_TC004](../test-cases/uat/UAT_TC004.md) | Description of Defect 006 |          |        |             |            | [Issue #6](https://github.com/your-repo/issues/6) |          |
 
 ## Test Summary
 ### Execution Summary
